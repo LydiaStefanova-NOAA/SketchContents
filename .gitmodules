@@ -4,9 +4,6 @@
 [submodule "ice_scoring"]
 	path = ice_scoring
 	url = https://github.com/rgrumbine/ice_scoring.git
-[submodule "CompareRunsRT-Fortran"]
-	path = CompareRunsRT-Fortran
-	url = https://github.com/LydiaStefanova-NOAA/CompareRunsRT-Fortran
 [submodule "CompareRunsRegTest"]
 	path = CompareRunsRegTest
 	url = https://github.com/LydiaStefanova-NOAA/CompareRunsRegTest.git
