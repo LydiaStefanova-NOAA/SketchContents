@@ -1,0 +1,3 @@
+[submodule "PartialBenchmarks"]
+	path = PartialBenchmarks
+	url = https://github.com/LydiaStefanova-NOAA/PartialBenchmarks.git
